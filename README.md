@@ -10,7 +10,7 @@ Certification goals for 2023:
 - [ ] Red Hat Certified System Administrator (In Progress)
 - [ ] Red Hat Certified Engineer (In Progress)
 
-“If you know the way broadly you will see it in everything.” - Miyamoto Musashi
+> “If you know the way broadly you will see it in everything.” - Miyamoto Musashi
 <!---
 paraskevasleivadaros/paraskevasleivadaros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
