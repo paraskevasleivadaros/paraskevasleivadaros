@@ -4,7 +4,7 @@
 - 👨‍🔬 I’m currently playing with Google Cloud & RHEL
 - 💞️ I’m looking to collaborate on any project that comes my way
 
-Certification goals for 2023:
+My certification goals for 2023:
 - [ ] Google Cloud Certified Digital Leader (In Progress)
 - [ ] Google Cloud Certified Associate Engineer (In Progress)
 - [ ] Red Hat Certified System Administrator (In Progress)
