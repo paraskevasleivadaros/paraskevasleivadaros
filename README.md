@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on any project that comes my way
 
 My certification goals for 2023:
-- [ ] Google Cloud Certified Cloud Digital Leader (In Progress)
+- [x] Google Cloud Certified Cloud Digital Leader (Completed)
 - [ ] Google Certified Associate Cloud Engineer (In Progress)
 - [ ] Red Hat Certified System Administrator (In Progress)
 - [ ] Red Hat Certified Engineer (In Progress)
