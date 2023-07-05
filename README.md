@@ -7,8 +7,6 @@
 My certification goals for 2023:
 - [x] Google Cloud Certified Cloud Digital Leader (Completed)
 - [ ] Google Certified Associate Cloud Engineer (In Progress)
-- [ ] Red Hat Certified System Administrator (In Progress)
-- [ ] Red Hat Certified Engineer (In Progress)
 
 > “If you know the way broadly you will see it in everything.” - Miyamoto Musashi
 <!---
