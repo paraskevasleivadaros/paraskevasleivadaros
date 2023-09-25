@@ -2,7 +2,7 @@
 - 🤖 I’m interested in automation software
 - 📫 How to reach me: [paraskevas@leivadaros.dev](mailto:paraskevas@leivadaros.dev)
 - 👨‍🔬 I’m currently playing with Google Cloud & RHEL
-- 💞️ I’m looking to collaborate on any project that comes my way
+- 💻 I’m looking to collaborate on any project that comes my way
 
 Google Cloud Certified Cloud Digital Leader
 
