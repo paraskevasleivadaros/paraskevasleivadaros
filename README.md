@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@paraskevasleivadaros](https://github.com/paraskevasleivadaros)
 - 🤖 I’m interested in automation software
-- 📫 How to reach me: [paraskevas@leivadaros.dev](mailto:paraskevas@leivadaros.dev)
 - 👨‍🔬 I’m currently playing with Google Cloud & RHEL
+- 📫 How to reach me: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
 
 Google Cloud Certified Cloud Digital Leader
 
