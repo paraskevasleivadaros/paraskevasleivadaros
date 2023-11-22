@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@paraskevasleivadaros](https://github.com/paraskevasleivadaros)
 - 👨‍🔬 I’m currently playing with Cloud Computing
 - 📫 How to reach me: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
-- 🧠 I'm interested in Quantum, Cognitive and Neuromorphic Computing
+- 🌌 I'm interested in Quantum, Cognitive and Neuromorphic Computing
 
 Google Cloud Certified Cloud Digital Leader
 
