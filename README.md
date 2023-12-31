@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@paraskevasleivadaros](https://github.com/paraskevasleivadaros)
-- 👨‍🔬 I’m currently playing with Cloud Computing
+- 🌱 I’m currently learning about Cloud Computing
 - 📫 How to reach me: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
 - 🧠 I'm interested in Quantum, Cognitive and Neuromorphic Computing
 
@@ -7,7 +7,7 @@ Google Cloud Certified Cloud Digital Leader
 
 > “If you know the way broadly you will see it in everything” - Miyamoto Musashi
 
-#### Languages / Tools 🛠️
+#### 🛠️ Languages / Tools
 [![Ansible](https://skills.thijs.gg/icons?i=ansible)](https://www.ansible.com/)
 [![AWS](https://skills.thijs.gg/icons?i=aws)](https://aws.amazon.com/)
 [![Azure](https://skills.thijs.gg/icons?i=azure)](https://azure.microsoft.com/)
@@ -40,3 +40,18 @@ Google Cloud Certified Cloud Digital Leader
 [![Visual Studio Code](https://skills.thijs.gg/icons?i=vscode)](https://code.visualstudio.com/)
 [![WordPress](https://skills.thijs.gg/icons?i=wordpress)](https://wordpress.org/)
 [![Adobe XD](https://skills.thijs.gg/icons?i=xd)](https://www.adobe.com/products/xd.html)
+
+#### ⚙️ &nbsp;GitHub Analytics
+<p align="justify">
+<a href="https://github.com/paraskevasleivadaros">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paraskevasleivadaros&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paraskevasleivadaros&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+#### 🤝🏻 &nbsp;Connect with Me
+<p>
+<a href="https://twitter.com/parasleivadaros"><img src="https://img.shields.io/badge/-@paraskevasleivadaros-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/paraskevasleivadaros"><img src="https://img.shields.io/badge/-paraskevasleivadaros-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:paraskevasleivadaros@gmail.com"><img src="https://img.shields.io/badge/-paraskevasleivadaros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
