@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@paraskevasleivadaros](https://github.com/paraskevasleivadaros)
-- 🌱 I’m currently learning about Data Science
+- 🌱 I’m currently studying Data Science
 - 📫 How to reach me: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
 - 🧠 I'm interested in Quantum and Neuromorphic Computing
 
@@ -41,7 +41,7 @@
 [![WordPress](https://skills.thijs.gg/icons?i=wordpress)](https://wordpress.org/)
 [![Adobe XD](https://skills.thijs.gg/icons?i=xd)](https://www.adobe.com/products/xd.html)
 
-#### 👨‍💻 &nbsp;GitHub Analytics
+#### 👨‍💻 GitHub Analytics
 <p align="justify">
 <a href="https://github.com/paraskevasleivadaros">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paraskevasleivadaros&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -49,9 +49,7 @@
 </a>
 </p>
 
-#### 🤝🏻 &nbsp;Connect with me
-<p>
+#### 🤝🏻 Contact
 <a href="https://twitter.com/parasleivadaros"><img src="https://img.shields.io/badge/-@parasleivadaros-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/paraskevasleivadaros"><img src="https://img.shields.io/badge/-paraskevasleivadaros-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:paraskevasleivadaros@gmail.com"><img src="https://img.shields.io/badge/-paraskevasleivadaros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
