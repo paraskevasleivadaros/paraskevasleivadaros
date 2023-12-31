@@ -6,10 +6,6 @@
 Google Cloud Certified Cloud Digital Leader
 
 > “If you know the way broadly you will see it in everything” - Miyamoto Musashi
-<!---
-paraskevasleivadaros/paraskevasleivadaros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 #### Languages / Tools 🛠️
 [![Tools](https://skills.thijs.gg/icons?i=ansible,aws,azure,bash,cloudflare,docker,gcp,git,github,githubactions,gitlab,grafana,html,idea,java,linux,md,mongodb,mysql,postman,prometheus,py,rabbitmq,redis,regex,spring,vim,vscode,wordpress,xd)](https://github.com/tandpfun/skill-icons#readme)
