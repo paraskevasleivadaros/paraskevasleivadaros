@@ -3,7 +3,7 @@
 - 📫 How to reach me: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
 - 🧠 I'm interested in Quantum, Cognitive and Neuromorphic Computing
 
-Google Cloud Certified Cloud Digital Leader
+#### Google Cloud Certified Cloud Digital Leader
 
 > “If you know the way broadly you will see it in everything” - Miyamoto Musashi
 
@@ -41,7 +41,7 @@ Google Cloud Certified Cloud Digital Leader
 [![WordPress](https://skills.thijs.gg/icons?i=wordpress)](https://wordpress.org/)
 [![Adobe XD](https://skills.thijs.gg/icons?i=xd)](https://www.adobe.com/products/xd.html)
 
-#### ⚙️ &nbsp;GitHub Analytics
+#### 👨‍💻 &nbsp;GitHub Analytics
 <p align="justify">
 <a href="https://github.com/paraskevasleivadaros">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paraskevasleivadaros&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -49,7 +49,7 @@ Google Cloud Certified Cloud Digital Leader
 </a>
 </p>
 
-#### 🤝🏻 &nbsp;Connect with Me
+#### 🤝🏻 &nbsp;Connect with me
 <p>
 <a href="https://twitter.com/parasleivadaros"><img src="https://img.shields.io/badge/-@parasleivadaros-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/paraskevasleivadaros"><img src="https://img.shields.io/badge/-paraskevasleivadaros-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
