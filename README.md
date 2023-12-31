@@ -1,9 +1,9 @@
 - 👋 Hi, I’m [@paraskevasleivadaros](https://github.com/paraskevasleivadaros)
-- 🌱 I’m currently learning about Cloud Computing
+- 🌱 I’m currently learning about Data Science
 - 📫 How to reach me: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
-- 🧠 I'm interested in Quantum, Cognitive and Neuromorphic Computing
+- 🧠 I'm interested in Quantum and Neuromorphic Computing
 
-#### Google Cloud Certified Cloud Digital Leader
+#### ☁ Google Cloud Certified Cloud Digital Leader
 
 > “If you know the way broadly you will see it in everything” - Miyamoto Musashi
 
