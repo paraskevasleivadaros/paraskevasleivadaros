@@ -1,7 +1,7 @@
-- 👋 Hi, I’m [@paraskevasleivadaros](https://github.com/paraskevasleivadaros)
-- 🌱 I’m currently studying Data Science
-- 📫 How to reach me: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
-- 🧠 I'm interested in Quantum and Neuromorphic Computing
+👋 Hi, I’m [@paraskevasleivadaros](https://github.com/paraskevasleivadaros)<br>
+🌱 I’m currently studying Data Science<br>
+📫 How to reach me: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)<br>
+🧠 I'm interested in Quantum and Neuromorphic Computing<br>
 
 #### ☁ Google Cloud Certified Cloud Digital Leader
 
