@@ -36,7 +36,7 @@
 [![Redis](https://skills.thijs.gg/icons?i=redis)](https://redis.io/)
 [![Regex](https://skills.thijs.gg/icons?i=regex)](https://regular-expressions.info/)
 [![Spring](https://skills.thijs.gg/icons?i=spring)](https://spring.io/)
-[![Vim](https://skills.thijs.gg/icons?i=vim)](https://vim.org/)
+[![Vim](https://skills.thijs.gg/icons?i=vim)](https://www.vim.org/)
 [![Visual Studio Code](https://skills.thijs.gg/icons?i=vscode)](https://code.visualstudio.com/)
 [![WordPress](https://skills.thijs.gg/icons?i=wordpress)](https://wordpress.org/)
 [![Adobe XD](https://skills.thijs.gg/icons?i=xd)](https://adobe.com/products/xd.html)
