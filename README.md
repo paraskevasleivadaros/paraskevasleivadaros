@@ -7,7 +7,7 @@
 
 > “If you know the way broadly you will see it in everything” - Miyamoto Musashi
 
-#### 🛠️ Languages / Tools
+#### 🛠️ Tech Stack
 [![Ansible](https://skills.thijs.gg/icons?i=ansible)](https://ansible.com/)
 [![AWS](https://skills.thijs.gg/icons?i=aws)](https://aws.amazon.com/)
 [![Azure](https://skills.thijs.gg/icons?i=azure)](https://azure.microsoft.com/)
