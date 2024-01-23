@@ -42,12 +42,10 @@
 [![Adobe XD](https://skills.thijs.gg/icons?i=xd)](https://adobe.com/products/xd.html)
 
 #### 👨‍💻 GitHub Analytics
-<p align="justify">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paraskevasleivadaros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paraskevasleivadaros&layout=compact&langs_count=8&theme=dark"/>
 </a>
-</p>
 
 #### 🤝🏻 Contact
 <a href="https://twitter.com/parasleivadaros"><img src="https://img.shields.io/badge/-@parasleivadaros-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
