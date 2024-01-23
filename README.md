@@ -44,8 +44,8 @@
 #### 👨‍💻 GitHub Analytics
 <p align="justify">
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paraskevasleivadaros&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paraskevasleivadaros&layout=compact&langs_count=8&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paraskevasleivadaros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paraskevasleivadaros&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
