@@ -2,9 +2,10 @@
 🌱 I’m currently studying Data Science<br>
 📝 Check out my blog: [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)<br>
 📫 How to reach me: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)<br>
+💼 Visit my website to learn more about me: [leivadaros.dev](https://leivadaros.dev)<br>
 🧠 I'm interested in Quantum and Neuromorphic Computing
 
-#### ☁ Google Cloud Certified Cloud Digital Leader
+**☁ Google Cloud Certified Cloud Digital Leader**
 
 > “If you know the way broadly you will see it in everything” - Miyamoto Musashi
 
