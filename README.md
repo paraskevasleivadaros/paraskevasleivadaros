@@ -9,6 +9,8 @@
 
 > “If you know the way broadly you will see it in everything” - Miyamoto Musashi
 
+> The magic you are looking for is on the work you are avoiding 
+
 #### 🛠️ Tech Stack
 [![Ansible](https://skills.thijs.gg/icons?i=ansible)](https://ansible.com/)
 [![AWS](https://skills.thijs.gg/icons?i=aws)](https://aws.amazon.com/)
