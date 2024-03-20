@@ -7,9 +7,9 @@
 
 **☁ Google Cloud Certified Cloud Digital Leader**
 
-> If you know the way broadly you will see it in everything - Miyamoto Musashi
+> The magic you are looking for is on the work you are avoiding
 
-> The magic you are looking for is on the work you are avoiding 
+> If you know the way broadly you will see it in everything - Miyamoto Musashi
 
 #### 🛠️ Tech Stack
 [![Ansible](https://skills.thijs.gg/icons?i=ansible)](https://ansible.com)
