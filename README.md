@@ -7,7 +7,7 @@
 
 **☁ Google Cloud Certified Cloud Digital Leader**
 
-> “If you know the way broadly you will see it in everything” - Miyamoto Musashi
+> If you know the way broadly you will see it in everything - Miyamoto Musashi
 
 > The magic you are looking for is on the work you are avoiding 
 
