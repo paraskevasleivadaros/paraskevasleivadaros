@@ -12,6 +12,7 @@
 > If you know the way broadly you will see it in everything - Miyamoto Musashi
 
 #### 🛠️ Tech Stack
+[![Adobe XD](https://skills.thijs.gg/icons?i=xd)](https://adobe.com/products/xd.html)
 [![Ansible](https://skills.thijs.gg/icons?i=ansible)](https://ansible.com)
 [![AWS](https://skills.thijs.gg/icons?i=aws)](https://aws.amazon.com)
 [![Azure](https://skills.thijs.gg/icons?i=azure)](https://azure.microsoft.com)
@@ -37,14 +38,13 @@
 [![Prometheus](https://skills.thijs.gg/icons?i=prometheus)](https://prometheus.io)
 [![Python](https://skills.thijs.gg/icons?i=py)](https://python.org)
 [![RabbitMQ](https://skills.thijs.gg/icons?i=rabbitmq)](https://rabbitmq.com)
+[![React](https://skills.thijs.gg/icons?i=react)](https://react.dev)
 [![Redis](https://skills.thijs.gg/icons?i=redis)](https://redis.io)
 [![Regex](https://skills.thijs.gg/icons?i=regex)](https://regular-expressions.info)
 [![Spring](https://skills.thijs.gg/icons?i=spring)](https://spring.io)
 [![Vim](https://skills.thijs.gg/icons?i=vim)](https://vim.org)
 [![Visual Studio Code](https://skills.thijs.gg/icons?i=vscode)](https://code.visualstudio.com)
 [![WordPress](https://skills.thijs.gg/icons?i=wordpress)](https://wordpress.org)
-[![Adobe XD](https://skills.thijs.gg/icons?i=xd)](https://adobe.com/products/xd.html)
-[![React](https://skills.thijs.gg/icons?i=react)](https://react.dev)
 
 #### 👨‍💻 GitHub Analytics
 <img src="https://myreadme.vercel.app/api/embed/paraskevasleivadaros?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
