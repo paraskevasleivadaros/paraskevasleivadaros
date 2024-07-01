@@ -7,10 +7,6 @@
 
 **☁ Google Cloud Certified Cloud Digital Leader**
 
-> The magic you are looking for is on the work you are avoiding
-
-> If you know the way broadly you will see it in everything - Miyamoto Musashi
-
 > You need to learn how to select your thoughts just the same way you select your clothes every day. This is a power you can cultivate. If you want to control things in your life so bad, work on the mind. That's the only thing you should be trying to control.
 
 #### 🛠️ Tech Stack
