@@ -7,8 +7,6 @@
 
 **☁ Google Cloud Certified Cloud Digital Leader**
 
-> You need to learn how to select your thoughts just the same way you select your clothes every day. This is a power you can cultivate. If you want to control things in your life so bad, work on the mind. That's the only thing you should be trying to control.
-
 #### 🛠️ Tech Stack
 [![Adobe XD](https://skillicons.dev/icons?i=xd)](https://adobe.com/products/xd.html)
 [![Ansible](https://skillicons.dev/icons?i=ansible)](https://ansible.com)
@@ -57,3 +55,5 @@
 <a href="https://linkedin.com/in/paraskevasleivadaros"><img src="https://img.shields.io/badge/-paraskevasleivadaros-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://youtube.com/@paraskevasleivadaros"><img src="https://img.shields.io/badge/-@paraskevasLeivadaros-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
 <a href="mailto:paraskevasleivadaros@gmail.com"><img src="https://img.shields.io/badge/-paraskevasleivadaros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+> You need to learn how to select your thoughts just the same way you select your clothes every day. This is a power you can cultivate. If you want to control things in your life so bad, work on the mind. That's the only thing you should be trying to control.
