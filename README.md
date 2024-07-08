@@ -50,15 +50,12 @@
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)
 
 #### 👨‍💻 GitHub Analytics
-<img src="https://myreadme.vercel.app/api/embed/paraskevasleivadaros?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=paraskevasleivadaros&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+<!-- <img src="https://myreadme.vercel.app/api/embed/paraskevasleivadaros?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paraskevasleivadaros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paraskevasleivadaros&layout=compact&langs_count=8&theme=dark"/>
 </a>
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=paraskevasleivadaros&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
 
 #### 🤝🏻 Contact
 <a href="https://leivadaros.dev"><img src="https://img.shields.io/badge/-leivadaros.dev-0078D4?style=flat&logo=icloud&logoColor=white"/></a>
