@@ -56,6 +56,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paraskevasleivadaros&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=paraskevasleivadaros&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
 #### 🤝🏻 Contact
 <a href="https://leivadaros.dev"><img src="https://img.shields.io/badge/-leivadaros.dev-0078D4?style=flat&logo=icloud&logoColor=white"/></a>
 <a href="https://twitter.com/parasleivadaros"><img src="https://img.shields.io/badge/-@parasleivadaros-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
