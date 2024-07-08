@@ -49,7 +49,7 @@
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)
 
-#### 📊 GitHub Analytics
+#### 🐙 GitHub Analytics
 <img style="width:100%; height:auto;" src="https://streak-stats.demolab.com?user=paraskevasleivadaros&theme=youtube-dark&hide_border=true&border_radius=0&card_width=800">
 <!-- <img src="https://myreadme.vercel.app/api/embed/paraskevasleivadaros?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -58,7 +58,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=paraskevasleivadaros&style=for-the-badge&color=orange" alt=""/>-->
 
-#### 🤝🏻 Contact
+#### ✉️ Contact
 <a href="https://leivadaros.dev"><img src="https://img.shields.io/badge/-leivadaros.dev-0078D4?style=flat&logo=icloud&logoColor=white"/></a>
 <a href="https://twitter.com/parasleivadaros"><img src="https://img.shields.io/badge/-@parasleivadaros-1877F2?style=flat&logo=x&logoColor=white"/></a>
 <a href="https://linkedin.com/in/paraskevasleivadaros"><img src="https://img.shields.io/badge/-paraskevasleivadaros-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
