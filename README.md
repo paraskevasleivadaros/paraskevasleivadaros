@@ -5,7 +5,7 @@
 💼 Visit my website to learn more about me: [leivadaros.dev](https://leivadaros.dev)<br>
 🧠 I'm interested in Quantum and Neuromorphic Computing
 
-☁ AWS Certified Cloud Practitioner (CLF-C02)
+☁ AWS Certified Cloud Practitioner (CLF-C02)<br>
 ☁ Google Cloud Certified Cloud Digital Leader
 
 #### 🛠️ Tech Stack
