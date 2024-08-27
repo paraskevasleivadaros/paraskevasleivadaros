@@ -5,7 +5,7 @@
 🧠 I'm interested in Quantum and Neuromorphic Computing<br>
 🌱 I’m currently pursuing my Master's in Data Science at [University of Amsterdam](https://uva.nl/en)
 
-☁ AWS Certified AI Practitioner [(credential)]([https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f)<br>
+☁ AWS Certified AI Practitioner [(credential)](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f)<br>
 ☁ AWS Certified Cloud Practitioner (CLF-C02) [(credential)](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f)<br>
 ☁ Google Cloud Certified Cloud Digital Leader [(credential)](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
 
