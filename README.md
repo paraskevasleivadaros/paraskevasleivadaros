@@ -3,7 +3,7 @@
 📫 How to reach me: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)<br>
 💼 Visit my website to learn more about me: [leivadaros.dev](https://leivadaros.dev)<br>
 🧠 I'm interested in Quantum and Neuromorphic Computing<br>
-🌱 I’m currently pursuing my Master's in Data Science at the [University of Amsterdam](https://uva.nl/en)
+🌱 I’m currently pursuing my [Master's in Data Science](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) at the [University of Amsterdam](https://uva.nl/en)
 
 ☁ AWS Certified AI Practitioner [(credential)](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b)<br>
 ☁ AWS Certified Cloud Practitioner [(credential)](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f)<br>
