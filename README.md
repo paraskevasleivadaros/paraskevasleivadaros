@@ -67,4 +67,4 @@
 <a href="https://youtube.com/@paraskevasleivadaros"><img src="https://img.shields.io/badge/-@paraskevasleivadaros-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
 <a href="mailto:paraskevasleivadaros@gmail.com"><img src="https://img.shields.io/badge/-paraskevasleivadaros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-> You cannot wish for both strong character and an easy life. The price of each is the other.
+> The only way to do great work is to love what you do
