@@ -1,4 +1,7 @@
-👋 Hi, I’m [@paraskevasleivadaros](https://github.com/paraskevasleivadaros)<br>
+## Hi there 🙋‍♂️
+I'm Paraskevas, an InfraOps Engineer from Greece
+
+✨ **About me**✨<br>
 📝 Check out my blog: [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)<br>
 📫 How to reach me: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)<br>
 💼 Visit my website to learn more about me: [leivadaros.dev](https://leivadaros.dev)<br>
