@@ -2,9 +2,9 @@
 I'm Paraskevas, an InfraOps Engineer from Greece
 
 ✨ **About me**✨<br>
-📝 Check out my blog: [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)<br>
-📫 How to reach me: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)<br>
-💼 Visit my website to learn more about me: [leivadaros.dev](https://leivadaros.dev)<br>
+📝 Check out my blog [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)<br>
+📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)<br>
+💼 Visit my website [leivadaros.dev](https://leivadaros.dev) to learn more about me<br>
 🧠 I'm interested in Quantum and Neuromorphic Computing<br>
 🌱 I’m currently pursuing my [Master's in Data Science](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) at the [University of Amsterdam](https://uva.nl/en)
 
