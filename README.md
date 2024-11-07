@@ -5,8 +5,8 @@ I'm Paraskevas, an InfraOps Engineer from Greece
 💼 Visit [leivadaros.dev](https://leivadaros.dev) to learn more about me<br>
 📝 Check out my blog [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)<br>
 📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)<br>
-🧠 I'm interested in Quantum and Neuromorphic Computing<br>
 🎓 I hold a [Bachelor’s degree in Computer Science](https://dept.aueb.gr/en/cs) from [AUEB](https://aueb.gr/en)<br>
+🧠 I'm interested in Quantum, Neuromorphic Computing and Robotics<br>
 🌱 I’m currently pursuing my [Master's in Data Science](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) at the [University of Amsterdam](https://uva.nl/en)
 
 ☁ AWS Certified AI Practitioner [(credential)](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b)<br>
