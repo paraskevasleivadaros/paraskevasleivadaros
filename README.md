@@ -71,4 +71,4 @@ I'm Paraskevas, an InfraOps Engineer from Greece
 <a href="https://youtube.com/@paraskevasleivadaros"><img src="https://img.shields.io/badge/-@paraskevasleivadaros-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
 <a href="mailto:paraskevasleivadaros@gmail.com"><img src="https://img.shields.io/badge/-paraskevasleivadaros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-> Success is not final, failure is not fatal: It is the courage to continue that counts
+> Everyone is jealous of what you've got, no one is jealous of how you got it
