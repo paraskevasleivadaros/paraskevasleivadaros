@@ -1,5 +1,5 @@
 ## Hi there 🙋‍♂️
-I'm Paraskevas, an InfraOps Engineer from Greece
+I'm Paraskevas, an InfraOps Engineer from Greece living in Amsterdam!
 
 ✨ **About me**✨<br>
 💼 Visit [leivadaros.dev](https://leivadaros.dev) to learn more about me<br>
