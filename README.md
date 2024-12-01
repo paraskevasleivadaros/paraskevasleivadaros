@@ -13,7 +13,7 @@ I'm Paraskevas, an InfraOps Engineer from Greece living in Amsterdam!
 ☁ AWS Certified Cloud Practitioner [(credential)](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f)<br>
 ☁ Google Cloud Certified Cloud Digital Leader [(credential)](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
 
-#### 🛠️ Tech Stack
+#### 🛠️ Tech I've Worked With
 [![Adobe XD](https://skillicons.dev/icons?i=xd)](https://adobe.com/products/xd.html)
 [![Ansible](https://skillicons.dev/icons?i=ansible)](https://ansible.com)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
@@ -71,4 +71,4 @@ I'm Paraskevas, an InfraOps Engineer from Greece living in Amsterdam!
 <a href="https://youtube.com/@paraskevasleivadaros"><img src="https://img.shields.io/badge/-@paraskevasleivadaros-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
 <a href="mailto:paraskevasleivadaros@gmail.com"><img src="https://img.shields.io/badge/-paraskevasleivadaros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-> Everyone is jealous of what you've got, no one is jealous of how you got it
+> The only way to do great work is to love what you do
