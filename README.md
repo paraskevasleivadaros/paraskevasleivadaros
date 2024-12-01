@@ -1,7 +1,7 @@
 ## Hi there 🙋‍♂️
 I'm Paraskevas, an InfraOps Engineer from Greece living in Amsterdam!
 
-✨ **About me**✨<br>
+#### ✨ About me
 💼 Visit [leivadaros.dev](https://leivadaros.dev) to learn more about me<br>
 📝 Check out my blog [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)<br>
 📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)<br>
@@ -13,7 +13,7 @@ I'm Paraskevas, an InfraOps Engineer from Greece living in Amsterdam!
 ☁ AWS Certified Cloud Practitioner [(credential)](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f)<br>
 ☁ Google Cloud Certified Cloud Digital Leader [(credential)](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
 
-#### 🛠️ Tech I've Worked With
+#### 🛠️ Tech I've Played With
 [![Adobe XD](https://skillicons.dev/icons?i=xd)](https://adobe.com/products/xd.html)
 [![Ansible](https://skillicons.dev/icons?i=ansible)](https://ansible.com)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
@@ -43,17 +43,20 @@ I'm Paraskevas, an InfraOps Engineer from Greece living in Amsterdam!
 [![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)
 [![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io)
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 [![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://rabbitmq.com)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Red Hat](https://skillicons.dev/icons?i=redhat)](https://redhat.com)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
 [![Regex](https://skillicons.dev/icons?i=regex)](https://regular-expressions.info)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
+[![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
 [![Terraform](https://skillicons.dev/icons?i=terraform)](https://terraform.io)	
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
 [![Vim](https://skillicons.dev/icons?i=vim)](https://vim.org)
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)
+<!--https://github.com/tandpfun/skill-icons--!>
 
 #### 🐙 GitHub Analytics
 <img style="width:100%; height:auto;" src="https://streak-stats.demolab.com?user=paraskevasleivadaros&theme=youtube-dark&hide_border=true&border_radius=0&card_width=800">
