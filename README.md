@@ -9,6 +9,7 @@ I'm Paraskevas, an InfraOps Engineer from Greece living in Amsterdam!
 🧠 I'm interested in Quantum, Neuromorphic Computing and Robotics<br>
 🌱 I’m currently pursuing my [Master's in Data Science](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) 📊🧑‍🔬 at the [University of Amsterdam](https://uva.nl/en)
 
+#### 📜 Certifications
 ☁ AWS Certified AI Practitioner [(credential)](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b)<br>
 ☁ AWS Certified Cloud Practitioner [(credential)](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f)<br>
 ☁ Google Cloud Certified Cloud Digital Leader [(credential)](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
