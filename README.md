@@ -56,7 +56,7 @@ I'm Paraskevas, an InfraOps Engineer from Greece living in Amsterdam!
 [![Vim](https://skillicons.dev/icons?i=vim)](https://vim.org)
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)
-<!--https://github.com/tandpfun/skill-icons--!>
+<!--https://github.com/tandpfun/skill-icons-->
 
 #### 🐙 GitHub Analytics
 <img style="width:100%; height:auto;" src="https://streak-stats.demolab.com?user=paraskevasleivadaros&theme=youtube-dark&hide_border=true&border_radius=0&card_width=800">
