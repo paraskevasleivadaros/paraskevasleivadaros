@@ -1,5 +1,5 @@
 ## Hi there 🙋‍♂️
-I'm Paraskevas, an InfraOps Engineer from Greece living in Amsterdam!
+I'm Paraskevas, an InfraOps Engineer at [DigitalOcean](https://digitalocean.com) from Greece living in Amsterdam!
 
 #### ✨ About me
 💼 Visit [leivadaros.dev](https://leivadaros.dev) to learn more about me<br>
