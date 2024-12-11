@@ -75,4 +75,4 @@ I'm Paraskevas, an InfraOps Engineer at [DigitalOcean](https://digitalocean.com)
 <a href="https://youtube.com/@paraskevasleivadaros"><img src="https://img.shields.io/badge/-@paraskevasleivadaros-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
 <a href="mailto:paraskevasleivadaros@gmail.com"><img src="https://img.shields.io/badge/-paraskevasleivadaros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-> The only way to do great work is to love what you do
+> The best way to predict the future is to create it – Peter Drucker
