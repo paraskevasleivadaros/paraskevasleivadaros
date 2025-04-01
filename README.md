@@ -1,7 +1,7 @@
 > Ὁ βίος βραχύς, ἡ δὲ τέχνη μακρή, ὁ δὲ καιρὸς ὀξὺς, ἡ δὲ πείρα σφαλερή, ἡ δὲ κρίσις χαλεπή.
 
 ## Hi there 🙋‍♂️
-I'm Paraskevas, an InfraOps Engineer at [DigitalOcean](https://digitalocean.com) from Greece living in Amsterdam!
+I'm Paraskevas, an InfraOps Engineer at [DigitalOcean](https://digitalocean.com) from Athens, Greece currently living in Amsterdam!
 
 #### ✨ About me
 💼 Visit [leivadaros.dev](https://leivadaros.dev) to learn more about me<br>
