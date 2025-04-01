@@ -1,3 +1,5 @@
+> Ὁ βίος βραχύς, ἡ δὲ τέχνη μακρή, ὁ δὲ καιρὸς ὀξὺς, ἡ δὲ πείρα σφαλερή, ἡ δὲ κρίσις χαλεπή.
+
 ## Hi there 🙋‍♂️
 I'm Paraskevas, an InfraOps Engineer at [DigitalOcean](https://digitalocean.com) from Greece living in Amsterdam!
 
@@ -74,5 +76,3 @@ I'm Paraskevas, an InfraOps Engineer at [DigitalOcean](https://digitalocean.com)
 <a href="https://linkedin.com/in/paraskevasleivadaros"><img src="https://img.shields.io/badge/-paraskevasleivadaros-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://youtube.com/@paraskevasleivadaros"><img src="https://img.shields.io/badge/-@paraskevasleivadaros-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
 <a href="mailto:paraskevasleivadaros@gmail.com"><img src="https://img.shields.io/badge/-paraskevasleivadaros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
-> It's nice to be important, but it's more important to be nice!
