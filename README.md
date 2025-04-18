@@ -4,12 +4,11 @@
 I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) from Athens, Greece currently based in Amsterdam!
 
 #### ✨ About me
-💼 Visit [leivadaros.dev](https://leivadaros.dev) to learn more about me<br>
-📝 Check out my blog [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)<br>
-📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)<br>
-🎓 I hold a [Bachelor’s degree in Computer Science](https://dept.aueb.gr/en/cs) from [AUEB](https://aueb.gr/en)<br>
-🧠 I'm interested in Quantum, Neuromorphic Computing and Robotics<br>
-🌱 I’m currently pursuing my [Master's in Data Science](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) 📊🧑‍🔬 at the [University of Amsterdam](https://uva.nl/en)
+ℹ️ Learn about me at [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)  
+📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)  
+🧠 I'm interested in Neuromorphic Computing and Robotics  
+🌱 I’m currently pursuing my [Master's in Data Science](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) 📊🧑‍🔬 at the [University of Amsterdam](https://uva.nl/en)  
+🎓 I hold a [Bachelor’s degree in Computer Science](https://dept.aueb.gr/en/cs) from [Athens University of Economics and Business](https://aueb.gr/en)
 
 #### 📜 Certifications
 ☁ AWS Certified AI Practitioner [(credential)](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b)<br>
@@ -71,8 +70,8 @@ I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) 
 <img src="https://komarev.com/ghpvc/?username=paraskevasleivadaros&style=for-the-badge&color=orange" alt=""/>-->
 
 #### ✉️ Contact
-<a href="https://leivadaros.dev"><img src="https://img.shields.io/badge/-leivadaros.dev-0078D4?style=flat&logo=icloud&logoColor=white"/></a>
-<a href="https://twitter.com/parasleivadaros"><img src="https://img.shields.io/badge/-@parasleivadaros-1877F2?style=flat&logo=x&logoColor=white"/></a>
-<a href="https://linkedin.com/in/paraskevasleivadaros"><img src="https://img.shields.io/badge/-paraskevasleivadaros-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/@paraskevasleivadaros"><img src="https://img.shields.io/badge/-@paraskevasleivadaros-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
-<a href="mailto:paraskevasleivadaros@gmail.com"><img src="https://img.shields.io/badge/-paraskevasleivadaros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/parasleivadaros"><img src="https://img.shields.io/badge/-@parasleivadaros-000000?style=flat&logo=x&logoColor=white"/></a>
+<a href="https://linkedin.com/in/paraskevasleivadaros"><img src="https://img.shields.io/badge/-paraskevasleivadaros-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://youtube.com/@paraskevasleivadaros"><img src="https://img.shields.io/badge/-@paraskevasleivadaros-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+<a href="https://paraskevasleivadaros.github.io"><img src="https://img.shields.io/badge/-paraskevasleivadaros.github.io-24292F?style=flat&logo=githubpages&logoColor=white"/></a>
+<a href="mailto:paraskevasleivadaros@gmail.com"><img src="https://img.shields.io/badge/-paraskevasleivadaros@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
