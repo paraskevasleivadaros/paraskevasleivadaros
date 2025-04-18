@@ -1,6 +1,6 @@
 > Ὁ βίος βραχύς, ἡ δὲ τέχνη μακρή, ὁ δὲ καιρὸς ὀξὺς, ἡ δὲ πείρα σφαλερή, ἡ δὲ κρίσις χαλεπή.
 
-### Hi there 🙋‍♂️
+### 🙋‍♂️ Hi there
 I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) from Athens, Greece currently based in Amsterdam!
 
 #### ✨ About me
