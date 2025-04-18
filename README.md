@@ -3,7 +3,7 @@
 ## Hi there 🙋‍♂️
 I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) from Athens, Greece currently based in Amsterdam!
 
-#### ✨ About me
+### ✨ About me
 💼 Visit [leivadaros.dev](https://leivadaros.dev) to learn more about me<br>
 📝 Check out my blog [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)<br>
 📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)<br>
@@ -11,12 +11,12 @@ I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) 
 🧠 I'm interested in Quantum, Neuromorphic Computing and Robotics<br>
 🌱 I’m currently pursuing my [Master's in Data Science](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) 📊🧑‍🔬 at the [University of Amsterdam](https://uva.nl/en)
 
-#### 📜 Certifications
+### 📜 Certifications
 ☁ AWS Certified AI Practitioner [(credential)](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b)<br>
 ☁ AWS Certified Cloud Practitioner [(credential)](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f)<br>
 ☁ Google Cloud Certified Cloud Digital Leader [(credential)](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
 
-#### 🛠️ Tech I've Played With
+### 🛠️ Tech I've Played With
 [![Adobe XD](https://skillicons.dev/icons?i=xd)](https://adobe.com/products/xd.html)
 [![Ansible](https://skillicons.dev/icons?i=ansible)](https://ansible.com)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
@@ -61,7 +61,7 @@ I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) 
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)
 <!--https://github.com/tandpfun/skill-icons-->
 
-#### 🐙 GitHub Analytics
+### 🐙 GitHub Analytics
 <img style="width:100%; height:auto;" src="https://streak-stats.demolab.com?user=paraskevasleivadaros&theme=youtube-dark&hide_border=true&border_radius=0&card_width=800">
 <!-- <img src="https://myreadme.vercel.app/api/embed/paraskevasleivadaros?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -70,7 +70,7 @@ I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) 
 </a>
 <img src="https://komarev.com/ghpvc/?username=paraskevasleivadaros&style=for-the-badge&color=orange" alt=""/>-->
 
-#### ✉️ Contact
+### ✉️ Contact
 <a href="https://leivadaros.dev"><img src="https://img.shields.io/badge/-leivadaros.dev-0078D4?style=flat&logo=icloud&logoColor=white"/></a>
 <a href="https://twitter.com/parasleivadaros"><img src="https://img.shields.io/badge/-@parasleivadaros-1877F2?style=flat&logo=x&logoColor=white"/></a>
 <a href="https://linkedin.com/in/paraskevasleivadaros"><img src="https://img.shields.io/badge/-paraskevasleivadaros-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
