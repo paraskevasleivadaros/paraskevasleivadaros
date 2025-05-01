@@ -60,14 +60,16 @@ I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) 
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)
 <!--https://github.com/tandpfun/skill-icons-->
 
+<!--
 #### 🐙 GitHub Analytics
 <img style="width:100%; height:auto;" src="https://streak-stats.demolab.com?user=paraskevasleivadaros&theme=youtube-dark&hide_border=true&border_radius=0&card_width=800">
-<!-- <img src="https://myreadme.vercel.app/api/embed/paraskevasleivadaros?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
+<img src="https://myreadme.vercel.app/api/embed/paraskevasleivadaros?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paraskevasleivadaros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paraskevasleivadaros&layout=compact&langs_count=8&theme=dark"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=paraskevasleivadaros&style=for-the-badge&color=orange" alt=""/>-->
+<img src="https://komarev.com/ghpvc/?username=paraskevasleivadaros&style=for-the-badge&color=orange" alt=""/>
+-->
 
 #### ✉️ Contact
 <a href="https://twitter.com/parasleivadaros"><img src="https://img.shields.io/badge/-@parasleivadaros-000000?style=flat&logo=x&logoColor=white"/></a>
