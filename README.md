@@ -1,7 +1,7 @@
 > Be fearful when others are greedy, and be greedy when others are fearful
 
-### 🙋‍♂️ Hi there
-I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) from Athens, Greece currently based in Amsterdam!
+#### 🙋‍♂️ Hi there
+👨‍🏭 I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) from Athens, Greece currently based in Amsterdam!
 
 #### ✨ About me
 ℹ️ Learn about me at [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)  
