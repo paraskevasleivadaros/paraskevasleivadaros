@@ -1,4 +1,4 @@
-> Be fearful when others are greedy, and be greedy when others are fearful
+> There's no losing, only learning. No failure, only opportunities. And no problems, only solutions.
 
 #### 🙋‍♂️ Hi there
 👨‍🏭 I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) from Athens, Greece currently based in Amsterdam!
