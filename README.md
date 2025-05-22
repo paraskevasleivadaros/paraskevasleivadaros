@@ -78,4 +78,4 @@
 <a href="https://paraskevasleivadaros.github.io"><img src="https://img.shields.io/badge/-paraskevasleivadaros.github.io-24292F?style=flat&logo=githubpages&logoColor=white"/></a>
 <a href="mailto:paraskevasleivadaros@gmail.com"><img src="https://img.shields.io/badge/-paraskevasleivadaros@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
-[!bella](img/bella.png)
+![bella](img/bella.png)
