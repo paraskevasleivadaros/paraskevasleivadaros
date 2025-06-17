@@ -15,49 +15,49 @@
 ☁ AWS Certified Cloud Practitioner [(credential)](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f)<br>
 ☁ Google Cloud Certified Cloud Digital Leader [(credential)](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
 
-#### 🛠️ Tech I've Played With
-[![Adobe XD](https://skillicons.dev/icons?i=xd)](https://adobe.com/products/xd.html)
-[![Ansible](https://skillicons.dev/icons?i=ansible)](https://ansible.com)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
+#### 🛠️ Favorite Tools
 [![Bash](https://skillicons.dev/icons?i=bash)](https://gnu.org/software/bash)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
-[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)](https://www.elastic.co/elasticsearch)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)	
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
-[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com)
-[![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://jetbrains.com/idea)
-[![Java](https://skillicons.dev/icons?i=java)](https://oracle.com/java)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
-[![LaTeX](https://skillicons.dev/icons?i=latex)](https://latex-project.org)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
 [![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)
-[![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io)
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://rabbitmq.com)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Red Hat](https://skillicons.dev/icons?i=redhat)](https://redhat.com)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
-[![Regex](https://skillicons.dev/icons?i=regex)](https://regular-expressions.info)
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
-[![Vim](https://skillicons.dev/icons?i=vim)](https://vim.org)
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)
+<!--[![Adobe XD](https://skillicons.dev/icons?i=xd)](https://adobe.com/products/xd.html)-->
+<!--[![Ansible](https://skillicons.dev/icons?i=ansible)](https://ansible.com)-->
+<!--[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)-->
+<!--[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)-->
+<!--[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)-->
+<!--[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)-->
+<!--[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)-->
+<!--[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)-->
+<!--[![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)](https://www.elastic.co/elasticsearch)-->
+<!--[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)-->
+<!--[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)-->
+<!--[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com)-->
+<!--[![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com)-->
+<!--[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)-->
+<!--[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://jetbrains.com/idea)-->
+<!--[![Java](https://skillicons.dev/icons?i=java)](https://oracle.com/java)-->
+<!--[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)-->
+<!--[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)-->
+<!--[![LaTeX](https://skillicons.dev/icons?i=latex)](https://latex-project.org)-->
+<!--[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)-->
+<!--[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)-->
+<!--[![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)-->
+<!--[![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io)-->
+<!--[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)-->
+<!--[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://rabbitmq.com)-->
+<!--[![Red Hat](https://skillicons.dev/icons?i=redhat)](https://redhat.com)-->
+<!--[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)-->
+<!--[![Regex](https://skillicons.dev/icons?i=regex)](https://regular-expressions.info)-->
+<!--[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)-->
+<!--[![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)-->
+<!--[![Vim](https://skillicons.dev/icons?i=vim)](https://vim.org)-->
+<!--[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)-->
 <!--https://github.com/tandpfun/skill-icons-->
 
 <!--
