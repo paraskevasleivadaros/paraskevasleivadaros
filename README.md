@@ -4,7 +4,7 @@
 👨‍🏭 I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) from Athens, Greece currently based in Amsterdam!
 
 #### ✨ About me
-🧠 I'm interested in Neuromorphic Computing
+🧠 I'm interested in Neuromorphic Computing  
 ℹ️ Learn about me at [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)  
 📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)  
 🎓 I hold a [Bachelor’s degree in Computer Science](https://dept.aueb.gr/en/cs) 🖥️ from [Athens University of Economics and Business](https://aueb.gr/en)  
