@@ -1,4 +1,4 @@
-> There's no losing, only learning. No failure, only opportunities. And no problems, only solutions.
+> Οὐδέν γλύκιον ἢ τῆς πατρίδος
 
 #### 🙋‍♂️ Hi there
 👨‍🏭 I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) from Athens, Greece currently based in Amsterdam!
