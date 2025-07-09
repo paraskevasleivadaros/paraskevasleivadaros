@@ -11,9 +11,9 @@
 🌱 I’m currently in the final stages of my [Master's degree in Information Studies: Data Science (track)](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) 📊🧑‍🔬 at the [University of Amsterdam](https://uva.nl/en)
 
 #### 📜 Certifications
-☁ AWS Certified AI Practitioner [(credential)](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b)<br>
-☁ AWS Certified Cloud Practitioner [(credential)](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f)<br>
-☁ Google Cloud Certified Cloud Digital Leader [(credential)](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
+☁ AWS Certified AI Practitioner [(credential)](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b)  
+☁ AWS Certified Cloud Practitioner [(credential)](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f)  
+☁ Google Cloud Certified Cloud Digital Leader [(credential)](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)  
 ☁ Google Cloud Certified Generative AI Leader [(credential)](https://credly.com/badges/e6117947-0c97-4b35-b16b-cfa746b2935e)
 
 #### 🛠️ Favorite Tools
