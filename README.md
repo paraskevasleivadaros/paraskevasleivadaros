@@ -14,6 +14,7 @@
 ☁ AWS Certified AI Practitioner [(credential)](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b)<br>
 ☁ AWS Certified Cloud Practitioner [(credential)](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f)<br>
 ☁ Google Cloud Certified Cloud Digital Leader [(credential)](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
+☁ Google Cloud Certified Generative AI Leader [(credential)](https://credly.com/badges/e6117947-0c97-4b35-b16b-cfa746b2935e)
 
 #### 🛠️ Favorite Tools
 [![Bash](https://skillicons.dev/icons?i=bash)](https://gnu.org/software/bash)
