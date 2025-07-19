@@ -8,7 +8,7 @@
 ℹ️ Learn about me at [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)  
 📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)  
 🎓 I hold a [Bachelor’s degree in Computer Science](https://dept.aueb.gr/en/cs) 🖥️ from [Athens University of Economics and Business](https://aueb.gr/en)  
-🌱 I’m currently in the final stages of my [Master's degree in Information Studies: Data Science (track)](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) 📊🧑‍🔬 at the [University of Amsterdam](https://uva.nl/en)
+🌱 I hold a [Master's degree in Information Studies: Data Science (track)](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) 📊🧑‍🔬 from [University of Amsterdam](https://uva.nl/en)
 
 #### 📜 Certifications
 ☁ AWS Certified AI Practitioner [(credential)](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b)  
