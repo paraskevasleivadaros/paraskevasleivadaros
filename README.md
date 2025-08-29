@@ -1,4 +1,4 @@
-> Οὐδὲν γλύκιον ἧς πατρίδος 🇬🇷 ☦️
+> πάνω από όλα καθαρή ψυχή
 
 #### 🙋‍♂️ Hi there
 👨‍🏭 I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) from Athens, Greece currently based in Amsterdam!
