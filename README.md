@@ -1,7 +1,7 @@
 > πάνω από όλα καθαρή ψυχή
 
 #### 🙋‍♂️ Hi there
-👨‍🏭 I'm Paraskevas, a CloudOps Engineer at [DigitalOcean](https://digitalocean.com) from 🇬🇷 Athens currently based in 🇳🇱 Amsterdam!
+👨‍🏭 I'm Paraskevas, a Cloud Operations Engineer at [DigitalOcean](https://digitalocean.com) from 🇬🇷 Athens currently based in 🇳🇱 Amsterdam!
 
 #### ✨ About me
 🧠 I'm interested in Neuromorphic Computing  
