@@ -7,8 +7,10 @@
 🧠 I'm interested in Neuromorphic Computing  
 ℹ️ Learn about me at [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)  
 📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)  
-🎓 I hold a [Bachelor’s degree in Computer Science](https://dept.aueb.gr/en/cs) 🖥️ from [Athens University of Economics and Business](https://aueb.gr/en)  
-🎓 I hold a [Master's degree in Data Science (Information Studies)](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) 📊 from [University of Amsterdam](https://uva.nl/en)
+
+#### 📚 Education
+🎓 [MSc Data Science (Information Studies)](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) at [University of Amsterdam](https://uva.nl/en)  
+🎓 [BSc Computer Science](https://dept.aueb.gr/en/cs) at [Athens University of Economics and Business](https://aueb.gr/en)
 
 #### 📜 Certifications
 ☁ [AWS Certified AI Practitioner](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b)  
