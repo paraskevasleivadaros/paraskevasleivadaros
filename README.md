@@ -1,4 +1,4 @@
-> πάνω από όλα καθαρή ψυχή
+> Πάντα ῥεῖ
 
 #### 🙋‍♂️ Hi there
 👨‍🏭 I'm Paraskevas, a Cloud Operations Engineer at [DigitalOcean](https://digitalocean.com) from 🇬🇷 Athens currently based in 🇳🇱 Amsterdam!
