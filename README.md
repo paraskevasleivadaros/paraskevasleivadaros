@@ -25,8 +25,6 @@
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
 [![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown)
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 <!--[![Adobe XD](https://skillicons.dev/icons?i=xd)](https://adobe.com/products/xd.html)-->
 <!--[![Ansible](https://skillicons.dev/icons?i=ansible)](https://ansible.com)-->
@@ -53,11 +51,13 @@
 <!--[![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io)-->
 <!--[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)-->
 <!--[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://rabbitmq.com)-->
+<!--[![React](https://skillicons.dev/icons?i=react)](https://react.dev)-->
 <!--[![Red Hat](https://skillicons.dev/icons?i=redhat)](https://redhat.com)-->
 <!--[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)-->
 <!--[![Regex](https://skillicons.dev/icons?i=regex)](https://regular-expressions.info)-->
 <!--[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)-->
 <!--[![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)-->
+<!--[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)-->
 <!--[![Vim](https://skillicons.dev/icons?i=vim)](https://vim.org)-->
 <!--[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)-->
 <!--https://github.com/tandpfun/skill-icons-->
