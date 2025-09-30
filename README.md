@@ -1,4 +1,4 @@
-> Πάντα ῥεῖ
+> Οι πολύ έξυπνοι άνθρωποι δεν μπορούνε να είναι κακοί γιατί το κακό απαιτεί βλακεία και περιορισμένη σκέψη
 
 🙋‍♂️ Hi there, I'm Paraskevas, a Cloud Operations Engineer at [DigitalOcean](https://digitalocean.com) from 🇬🇷 Athens currently based in 🇳🇱 Amsterdam!
 
