@@ -34,5 +34,5 @@
 #### ✨ Contact
 <!-- 📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com) -->
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/paraskevasleivadaros)
-[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/parasleivadaros)
 [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:paraskevasleivadaros@gmail.com)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/parasleivadaros)
