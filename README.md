@@ -23,7 +23,6 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
-[![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown)
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org)
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 <!--[![Adobe XD](https://skillicons.dev/icons?i=xd)](https://adobe.com/products/xd.html)-->
@@ -45,6 +44,7 @@
 <!--[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)-->
 <!--[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)-->
 <!--[![LaTeX](https://skillicons.dev/icons?i=latex)](https://latex-project.org)-->
+<!--[![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown)-->
 <!--[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)-->
 <!--[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)-->
 <!--[![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)-->
