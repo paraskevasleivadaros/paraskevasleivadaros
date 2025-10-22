@@ -1,5 +1,3 @@
-> Η αισθητική είναι η ηθική του μέλλοντος
-
 🙋‍♂️ Hi, I’m Paraskevas, a Cloud Operations Engineer at DigitalOcean, based in Amsterdam 🇳🇱
 
 #### 📚 Education
