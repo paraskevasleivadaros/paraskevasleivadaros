@@ -2,11 +2,6 @@
 
 🙋‍♂️ Hi, I’m Paraskevas, a Cloud Operations Engineer at DigitalOcean, based in Amsterdam 🇳🇱
 
-#### ✨ About me
-🧠 I'm interested in Neuromorphic Computing  
-ℹ️ Learn about me at [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)  
-📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)  
-
 #### 📚 Education
 🎓 [MSc Data Science (Information Studies)](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) at [University of Amsterdam](https://uva.nl/en)  
 🎓 [BSc Computer Science](https://dept.aueb.gr/en/cs) at [Athens University of Economics and Business](https://aueb.gr/en)
@@ -76,6 +71,8 @@
 #### ✉️ Contact
 <a href="https://twitter.com/parasleivadaros"><img src="https://img.shields.io/badge/-@parasleivadaros-000000?style=flat&logo=x&logoColor=white"/></a>
 <a href="https://linkedin.com/in/paraskevasleivadaros"><img src="https://img.shields.io/badge/-paraskevasleivadaros-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/@paraskevasleivadaros"><img src="https://img.shields.io/badge/-@paraskevasleivadaros-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+<a href="https://youtube.com/@paraskevasleivadaros"><img src="https://img.shields.io/badge/-@paraskevasleivadaros-FF0000?style=flat&logo=youtube&logoColor=white"/></a>  
+ℹ️ Learn about me at [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)  
+📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)  
 
 ![bella](img/bella.png)
