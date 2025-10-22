@@ -1,6 +1,6 @@
 > Η αισθητική είναι η ηθική του μέλλοντος
 
-🙋‍♂️ Hi there, I'm Paraskevas, a Cloud Operations Engineer at [DigitalOcean](https://digitalocean.com) from 🇬🇷 Athens currently based in 🇳🇱 Amsterdam!
+🙋‍♂️ Hi, I’m Paraskevas, a Cloud Operations Engineer at DigitalOcean, based in Amsterdam 🇳🇱
 
 #### ✨ About me
 🧠 I'm interested in Neuromorphic Computing  
