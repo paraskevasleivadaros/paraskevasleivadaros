@@ -11,6 +11,7 @@
 ☁ [Google Cloud Certified Generative AI Leader](https://credly.com/badges/e6117947-0c97-4b35-b16b-cfa746b2935e)
 
 #### 🛠️ Favorite Tools
+<!-- https://github.com/tandpfun/skill-icons -->
 [![Bash](https://skillicons.dev/icons?i=bash)](https://gnu.org/software/bash)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
@@ -18,42 +19,6 @@
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org)
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-<!--[![Adobe XD](https://skillicons.dev/icons?i=xd)](https://adobe.com/products/xd.html)-->
-<!--[![Ansible](https://skillicons.dev/icons?i=ansible)](https://ansible.com)-->
-<!--[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)-->
-<!--[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)-->
-<!--[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)-->
-<!--[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)-->
-<!--[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)-->
-<!--[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)-->
-<!--[![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)](https://www.elastic.co/elasticsearch)-->
-<!--[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)-->
-<!--[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)-->
-<!--[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com)-->
-<!--[![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com)-->
-<!--[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)-->
-<!--[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://jetbrains.com/idea)-->
-<!--[![Java](https://skillicons.dev/icons?i=java)](https://oracle.com/java)-->
-<!--[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)-->
-<!--[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)-->
-<!--[![LaTeX](https://skillicons.dev/icons?i=latex)](https://latex-project.org)-->
-<!--[![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown)-->
-<!--[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)-->
-<!--[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)-->
-<!--[![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)-->
-<!--[![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io)-->
-<!--[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)-->
-<!--[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://rabbitmq.com)-->
-<!--[![React](https://skillicons.dev/icons?i=react)](https://react.dev)-->
-<!--[![Red Hat](https://skillicons.dev/icons?i=redhat)](https://redhat.com)-->
-<!--[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)-->
-<!--[![Regex](https://skillicons.dev/icons?i=regex)](https://regular-expressions.info)-->
-<!--[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)-->
-<!--[![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)-->
-<!--[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)-->
-<!--[![Vim](https://skillicons.dev/icons?i=vim)](https://vim.org)-->
-<!--[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)-->
-<!--https://github.com/tandpfun/skill-icons-->
 
 <!--
 #### 🐙 GitHub Analytics
@@ -67,6 +32,7 @@
 -->
 
 #### ✨ Contact
-📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)  
-
-![bella](img/bella.png)
+<!-- 📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com) -->
+[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:paraskevasleivadaros@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https:/linkedin.com/in/paraskevasleivadaros)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/parasleivadaros)
