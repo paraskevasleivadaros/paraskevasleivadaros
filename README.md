@@ -69,11 +69,6 @@
 -->
 
 #### ✨ Contact
-ℹ️ Learn about me at [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io)  
 📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)  
-
-<a href="https://twitter.com/parasleivadaros"><img src="https://img.shields.io/badge/-@parasleivadaros-000000?style=flat&logo=x&logoColor=white"/></a>
-<a href="https://linkedin.com/in/paraskevasleivadaros"><img src="https://img.shields.io/badge/-paraskevasleivadaros-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/@paraskevasleivadaros"><img src="https://img.shields.io/badge/-@paraskevasleivadaros-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 
 ![bella](img/bella.png)
