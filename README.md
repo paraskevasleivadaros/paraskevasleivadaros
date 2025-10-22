@@ -19,7 +19,6 @@
 
 #### 🛠️ Favorite Tools
 [![Bash](https://skillicons.dev/icons?i=bash)](https://gnu.org/software/bash)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
@@ -37,6 +36,7 @@
 <!--[![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)](https://www.elastic.co/elasticsearch)-->
 <!--[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)-->
 <!--[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)-->
+<!-- [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)-->
 <!--[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com)-->
 <!--[![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com)-->
 <!--[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)-->
