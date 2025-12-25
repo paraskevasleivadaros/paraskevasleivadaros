@@ -1,3 +1,6 @@
+> If you have a garden and a library, you have everything you need
+
+
 🙋‍♂️ Hi, I’m Paraskevas, a Cloud Operations Engineer at DigitalOcean, based in Amsterdam 🇳🇱
 
 #### 📚 Education
