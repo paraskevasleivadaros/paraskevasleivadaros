@@ -1,5 +1,4 @@
-> Human beings can alter their lives by altering their attitudes of mind.
-
+> Matthew 17:20 - "Our faith can move mountains."
 
 🙋‍♂️ Hi, I’m Paraskevas, a Cloud Operations Engineer at DigitalOcean, based in Amsterdam 🇳🇱
 
@@ -38,4 +37,3 @@
 <!-- 📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com) -->
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/paraskevasleivadaros)
 [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:paraskevasleivadaros@gmail.com)
-[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/parasleivadaros)
