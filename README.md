@@ -1,6 +1,8 @@
 > Matthew 17:20 - "Our faith can move mountains."
 
-🙋‍♂️ Hi, I’m Paraskevas, a Cloud Operations Engineer at DigitalOcean, based in Amsterdam 🇳🇱
+🙋‍♂️ Hi, I’m Paraskevas, a Cloud Operations Engineer at DigitalOcean, based in Amsterdam 🇳🇱. 
+
+🌱 I use [Ecosia](https://www.ecosia.org/browser) as my search engine to help plant trees with every search 🌲🌳🌴.
 
 #### 📚 Education
 🎓 [MSc Data Science (Information Studies)](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) at [University of Amsterdam](https://uva.nl/en)  
