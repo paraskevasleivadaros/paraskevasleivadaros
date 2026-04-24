@@ -1,4 +1,4 @@
-> Matthew 17:20 - "Our faith can move mountains."
+> He who writes survives
 
 🙋‍♂️ Hi, I’m Paraskevas, a Cloud Operations Engineer at DigitalOcean, based in Amsterdam 🇳🇱. 
 
