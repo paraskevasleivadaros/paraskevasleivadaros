@@ -1,6 +1,6 @@
 > He who writes survives
 
-🙋‍♂️ Hi, I’m Paraskevas, a Cloud Operations Engineer at DigitalOcean
+🙋‍♂️ Hi, I’m Paraskevas, a Cloud Operations Engineer at [DigitalOcean](https://digitalocean.com)
 
 🌱 I use [Ecosia](https://www.ecosia.org) as my search engine to help plant trees with every search
 
