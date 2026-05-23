@@ -1,7 +1,7 @@
 🙋‍♂️ Hi, I’m Paraskevas, a Cloud Operations Engineer at [DigitalOcean](https://digitalocean.com)
 
 > [!IMPORTANT] 
-> 🌱 I use [Ecosia](https://www.ecosia.org) as my search engine to help plant trees with every search
+> 🌱 I use [Ecosia](https://ecosia.org) as my search engine to help plant trees with every search
 >
 > 🐋 I'm funding rewilding missions at [Planet Wild](https://planetwild.com) that bring back endangered species, clean up our oceans, and rewild entire forests
 
