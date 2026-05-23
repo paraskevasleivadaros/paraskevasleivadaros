@@ -7,6 +7,8 @@
 >
 > 🐋 I'm funding rewilding missions at [Planet Wild](https://planetwild.com) that bring back endangered species, clean up our oceans, and rewild entire forests
 
+![Paraskevas's GitHub stats](https://github-readme-stats.vercel.app/api?username=paraskevasleivadaros&show_icons=true&theme=github_dark)
+
 #### 📚 Εκπαίδευση
 🎓 [MSc Data Science (Information Studies)](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) at [University of Amsterdam](https://uva.nl/en)  
 🎓 [BSc Computer Science](https://dept.aueb.gr/en/cs) at [Athens University of Economics and Business](https://aueb.gr/en)
@@ -28,6 +30,5 @@
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
 #### ✨ Επικοινωνία
-<!-- 📫 Send me a mail at [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com) -->
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/paraskevasleivadaros)
 [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:paraskevasleivadaros@gmail.com)
