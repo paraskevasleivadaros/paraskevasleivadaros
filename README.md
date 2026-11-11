@@ -1,9 +1,9 @@
 🙋‍♂️ Hi, I’m Paraskevas, a Cloud Operations Engineer at [DigitalOcean](https://digitalocean.com)
 
 > [!IMPORTANT] 
-> 🌱 I use [Ecosia](https://ecosia.org) as my search engine to help plant trees with every search
+> **🌱 I use [Ecosia](https://ecosia.org) as my search engine to help plant trees with every search**
 >
-> 🐋 I'm funding rewilding missions at [Planet Wild](https://planetwild.com) that clean up our oceans and rewild entire forests
+> **🐋 I'm funding rewilding missions at [Planet Wild](https://planetwild.com) that clean up our oceans and rewild entire forests**
 
 #### 📚 Education
 🎓 [MSc Data Science (Information Studies)](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) at [University of Amsterdam](https://uva.nl/en)  
